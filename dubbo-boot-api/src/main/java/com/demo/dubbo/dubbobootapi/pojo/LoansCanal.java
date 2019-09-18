@@ -8,14 +8,7 @@ import lombok.experimental.Accessors;
 import java.io.Serializable;
 import java.time.LocalDateTime;
 
-/**
- * <p>
- * 贷款渠道商信息表
- * </p>
- *
- * @author 车资道科技
- * @since 2019-03-04
- */
+
 @Data
 @EqualsAndHashCode(callSuper = false)
 @Accessors(chain = true)
